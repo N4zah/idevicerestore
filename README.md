@@ -1,4 +1,4 @@
-# idevicerestore
+# Fork idevicerestore for notifications
 
 *A command-line application to restore firmware files to iOS devices.*
 
